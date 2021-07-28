@@ -43,7 +43,7 @@ pyparsing==2.4.7
 pytest==6.2.3
 pytube==10.5.3
 pytz==2021.1
-pywin32==300
+#pywin32==300
 regex==2021.4.4
 requests==2.25.1
 rest-swagger==1.0.0
